@@ -1,0 +1,1 @@
+User Name: Name of the user. Required to follow up later on.  Submitted: 2025-11-04T19:20:13.405-05:00  Description: Description of the problem. Required.  Status: Current status of the ticket. Required. Allowed values: "Open", "Closed" Prio: Time criticality of the ticket. Required. Allowed values: "Urgent", "Not Urgent"
